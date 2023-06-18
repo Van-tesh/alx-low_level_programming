@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * code to output "programming is like ...
+ * main - usage of puts
+ * Return: Always 0 (Success)
  */
 
 int main(void)
